@@ -46,6 +46,7 @@ a {
 
 body {
     font-family: myspecialfont;
+    background-color: black;
 }
 
 body::-webkit-scrollbar {
